@@ -3,9 +3,10 @@ $navbar-default-bg: #212124;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+
 body {
-  background-color: #912F0E;
-  color: #000;
+  background-color: #0F1223;
+  color: #aeaeae;
 }
 
 body a{
@@ -39,6 +40,7 @@ body a:hover{
   background-image: asset-url('jmbtrnshnt.jpg');
   background-size: cover;
   height: 525px;
+  border: 2px solid #aeaeae;
 }
 
 .jumbotron h1 {
@@ -98,8 +100,8 @@ footer ul li {
 
 
 .well{
-  background-color: #912F0E;
-  border: none;
+  background-color: black;
+  border: 1px solid white;
 }
 
 .article-title {
