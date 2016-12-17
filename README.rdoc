@@ -1,1 +1,3 @@
-This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+This is a repository for my first app created while taking the Complete Ruby on Rails Developer Course.
+It's a blog webapp that you can login to and create your own articles to share with any user that's signed up!
+https://alpha-blog-byron.herokuapp.com/ <---Check it oUT!
